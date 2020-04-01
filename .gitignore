@@ -1,0 +1,7 @@
+## Construct 2 ##
+/export
+*.capx.backup1
+*.capx.autosave
+
+## Vim ##
+*.swp
