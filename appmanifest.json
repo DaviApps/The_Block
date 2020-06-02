@@ -1,7 +1,7 @@
 ﻿{
 	"name": "The_Block",
 	"short_name": "The_Block",
-	"start_url": "index.html",
+	"start_url": "/The_Block/",
 	"display": "fullscreen",
 	"orientation": "landscape",
 	"icons": [{
